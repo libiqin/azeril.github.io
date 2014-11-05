@@ -43,7 +43,7 @@ is_valid(X) ->
 
 {% endhighlight %}
 
-Assuming Nums is list of cc numbers, to pick the valid ones, did:
+Assuming Nums is list of cc numbers, to pick the valid ones, do:
 
 {% highlight erlang %}
 
