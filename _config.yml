@@ -11,17 +11,17 @@ relative_permalinks: true
 # Setup
 title:               "Microdust"
 tagline:             '微尘'
-description:         '爱与希望'
+description:         ''
 url:                 http://azeril.me/
 baseurl:             /
-paginate:            5
+paginate:            7
 excerpt_separator:   ""
 
 # About/contact
 author:
-  name:              krassik
+  name:              Azeril
   url:               https://azeril.me/
-  email:             krassimir.krustev@gmail.com
+  email:             azeril@live.cn
 
 # Custom vars
 version:             1.0.0
