@@ -9,10 +9,10 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               "Public"
-tagline:             'Notes'
-description:         ''
-url:                 http://krassik.github.io
+title:               "Microdust"
+tagline:             '微尘'
+description:         '爱与希望'
+url:                 http://azeril.me/
 baseurl:             /
 paginate:            5
 excerpt_separator:   ""
@@ -20,7 +20,7 @@ excerpt_separator:   ""
 # About/contact
 author:
   name:              krassik
-  url:               https://krassik.github.io
+  url:               https://azeril.me/
   email:             krassimir.krustev@gmail.com
 
 # Custom vars
