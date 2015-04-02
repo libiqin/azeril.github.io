@@ -9,9 +9,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               "Microdust"
-tagline:             '微尘'
-description:         ''
+title:               "Microdust 微尘"
+tagline:             '「在遙遠的地方 一切虔誠終必相遇」'
+description:         '明朝即長路 惜取此時心'
 url:                 http://azeril.me/
 baseurl:             /
 paginate:            7
