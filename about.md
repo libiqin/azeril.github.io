@@ -1,31 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 published: false
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Who is Azeril?
+![Me](http://dreamofbook.qiniudn.com/Az..png)  
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Ehhhh...I know it's not a good question.
 
-There are currently two themes built on Poole:
+My Name is Azeril Lapland.You can find me in somewhere such as douban.com/Goodreads.com/facebook/instagram/twitter/weibo.com so on.It's easy to know me.My short name is Az.,it easy to remember...
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+喜欢折腾的伪技术宅。一点点 geek，一点点认真，就像吃烧烤时多少会添加一点孜然一样，如此的程度。多的是折腾，也希望多几分专注和勇敢。
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+——Azeril
