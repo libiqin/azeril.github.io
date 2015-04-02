@@ -7,7 +7,7 @@ This is a blog writed by Azeril. The blog is live at [azeril.me](http://azeril.m
 * [Jekyll](http://jekyllrb.com/), a static site generator
 * [Lanyon](https://github.com/poole/lanyon), a Jekyll theme
 * [Poole](http://getpoole.com/), what Lanyon is based on
-* [IEEE-IIT](https://github.com/IEEE-IIT/website/),my blog core theme is based on
+* [IEEE-IIT](https://github.com/IEEE-IIT/website/), my blog core theme is based on
 
 ## Just write
 
