@@ -306,7 +306,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #17a8b5;
 }
 .page-title,
 .post-title {
@@ -331,7 +331,7 @@ a.sidebar-nav-item:focus {
   padding-left: 0;
   list-style: none;
 }
-.related-posts h3 {
+.related-posts h4 {
   margin-top: 0;
 }
 .related-posts li small {
