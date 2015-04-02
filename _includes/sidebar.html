@@ -10,8 +10,14 @@
   </div>
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Notes</a>
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">日志 Notes</a>
 
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">读书 Reading</a>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">工具 Tools</a>
+    
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
@@ -30,12 +36,11 @@
     <a class="sidebar-nav-item" href="mailto:azeril@live.cn" >Email</a>
     <a class="sidebar-nav-item" href="http://azeril.github.io/atom.xml">Feed</a>
   </nav>
-<!--
+
   <div class="sidebar-item">
     <p>
-      &copy; {{ site.time | date: '%Y' }} Azeril All rights reserved.Powered by Jekyll.
+      Copyrights &copy; {{ site.time | date: '%Y' }} Danyal Zia.
     </p>
   </div>
--->
-
 </div>
+
