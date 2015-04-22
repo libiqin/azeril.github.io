@@ -13,7 +13,7 @@ title:               "Microdust 微尘"
 tagline:             '「在遙遠的地方 一切虔誠終必相遇」'
 description:         '明朝即長路 惜取此時心'
 url:                 http://azeril.me/
-baseurl:             azeril.me/
+baseurl:             azeril.me
 paginate:            7
 excerpt_separator:   ""
 
