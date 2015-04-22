@@ -1,14 +1,7 @@
 ---
 layout: page
-title: Thinking
+title: 思 Thinking
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-<iframe width="560" height="315" src="url" frameborder="0" allowfullscreen></iframe>
-<iframe width="560" height="315" src="//www.douban.com/people/Azeril" frameborder="0" allowfullscreen></iframe>
-</body>
-</html>
+还没有任何内容！！！
+XD
