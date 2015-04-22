@@ -11,7 +11,8 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">志 Notes</a>
-    
+
+<!--    
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
       `layout: page` in the front-matter. See readme for usage.
@@ -25,12 +26,12 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+-->
 
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ baseurl }}/Thinking">思 Thinking </a>
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ baseurl }}/Reading">读 Reading </a>
     <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ baseurl }}/Tools">方 Tools </a>
-    
-    <a class="sidebar-nav-item" href="mailto:azeril@live.cn" >Email</a>
+    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ baseurl }}/About">我 About Az. </a>
     <a class="sidebar-nav-item" href="http://azeril.github.io/atom.xml">Feed</a>
   </nav>
 
