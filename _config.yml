@@ -23,5 +23,13 @@ author:
   url:               https://azeril.me/
   email:             azeril@live.cn
 
+comments :
+  provider : duoshuo
+  duoshuo :
+    short_name : Azeril
+  disqus :
+      short_name : Azeril
+  # ...
+  
 # Custom vars
 version:             1.0.0
