@@ -19,6 +19,10 @@ title:
   {% endfor %}
 </div>
 
+  <h2>
+    <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+  </h2>
+
   <div>
     {% if post.fullview %}
     {{ post.content }}
@@ -32,6 +36,12 @@ title:
     {% endif %}
     {% endif %}
   </div>
+
+</article>
+{% endfor %}
+<hr/>
+
+<ul class="pager"> 
 
 <div class="pagination">
   {% if paginator.next_page %}
