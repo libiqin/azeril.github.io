@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-### Who is Azeril?
+### Who is...Azeril?
 ![Me](http://dreamofbook.qiniudn.com/Az..png)  
 
 Ehhhh...I know it's not a good question.
@@ -14,5 +14,3 @@ My Name is Azeril Lapland.You can find me in somewhere such as douban.com/Goodre
 
 ——Azeril
 
-
-<script type="text/javascript" src="http://www.douban.com/service/badge/Azeril/?selection=favorite&amp;picsize=medium&amp;hideself=on&amp;show=collection&amp;n=20&amp;hidelogo=on&amp;cat=movie%7Cbook&amp;columns=4"></script>
