@@ -44,6 +44,10 @@ title: Tools 工具集
 
 [Dillinger](http://dillinger.io/) Markdown 在线编辑器
 
+[Screen rule](http://azeril.me/Screenrule/)
+
+[Interview](http://azeril.me/Interview/)
+
 ### Resources
 [康熙字典](http://www.zdic.net/z/kxzd/)  
 
