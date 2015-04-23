@@ -8,8 +8,20 @@ title: Tools 工具集
 
 [W3C Editor's Draft](http://www.w3.org/International/docs/chinese-layout/zh/) 中文排版  
 
+### Tools 
+
+[Dillinger](http://dillinger.io/) 
+
+[StackEdit](https://stackedit.io/editor#) 
+
+[Color-hex Color-Codes](http://www.color-hex.com/)  
+
+[Screen rule](http://azeril.me/Screenrule/)
+
+[Interview](http://azeril.me/Interview/)
+
 ### Convert 
-[短网址](http://www.waqiang.com/index.php/url/shorten) 网址转换
+[Shorten](http://www.waqiang.com/index.php/url/shorten) 网址转换
 
 [Damotou](http://www.damotou.com/index.php) 在线转换工具 Icon 图标
 
@@ -38,15 +50,6 @@ title: Tools 工具集
 
 [Archive.org](http://archive.org/web/web.php) 时光机
 
-
-### Tools 
-[StackEdit](https://stackedit.io/editor#) Markdown 在线编辑器
-
-[Dillinger](http://dillinger.io/) Markdown 在线编辑器
-
-[Screen rule](http://azeril.me/Screenrule/)
-
-[Interview](http://azeril.me/Interview/)
 
 ### Resources
 [康熙字典](http://www.zdic.net/z/kxzd/)  
