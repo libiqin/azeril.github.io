@@ -61,8 +61,8 @@ html {
 body {
   color: #515151;
   background-color: #fff;
-  -webkit-text-size-adjust: 100%;
-      -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 75%;
+      -ms-text-size-adjust: 75%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
@@ -370,7 +370,7 @@ tbody tr:nth-child(odd) th {
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
+  color: #26d2b5;
   text-decoration: none;
 }
 .related-posts li a:hover small {
