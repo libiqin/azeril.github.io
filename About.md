@@ -15,4 +15,3 @@ My Name is Azeril Lapland.You can find me in somewhere such as douban.com/Goodre
 ——Azeril
 
 
-<script type="text/javascript" src="http://www.xiami.com/widget/player-single?uid=1614969&sid=1770201852&mode=js"></script>
