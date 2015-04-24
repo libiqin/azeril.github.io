@@ -42,6 +42,10 @@ title: Tools 工具集
 
 [IFTTT](https://ifttt.com/) 
 
+[Imgur](http://imgur.com/)  
+
+[NeteaseMusic](http://music.163.com/)  
+
 [Duolingo](duolingo.com) Language Learning  
 
 [ChromeSync](https://www.google.com/settings/chrome/sync) Chrome 同步设置
