@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-light-feature
 title: 书店的灯光
 categories: [blog ]
 tags: [book, life, travel]
