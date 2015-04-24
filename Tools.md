@@ -52,6 +52,13 @@ title: Tools 工具集
 
 
 ### Resources
+
+[Library Genesis](http://gen.lib.rus.ec/)  
+
+[bookfi.org](http://en.bookfi.org/)  
+
+[Mobilism](http://forum.mobilism.org/viewforum.php?f=120&sid=5d7797456253aa3d63635b4f492ad1ce)  
+
 [康熙字典](http://www.zdic.net/z/kxzd/)  
 
 ### Just Try 
