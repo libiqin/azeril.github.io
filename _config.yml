@@ -23,6 +23,11 @@ author:
   url:               https://azeril.me/
   email:             azeril@live.cn
 
+# Data
+gavatar: http://dreamofbook.qiniudn.com/Az..png
+favicon: http://dreamofbook.qiniudn.com/favicon.png
+
+# Comments 
 comments :
   provider : duoshuo
   duoshuo :
