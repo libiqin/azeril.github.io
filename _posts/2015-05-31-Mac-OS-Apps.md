@@ -2,7 +2,7 @@
 layout: post
 title: Mac OS：搭建一个简约好用的个人系统
 categories: [blog ]
-tags: [Software, Mac, ]
+tags: [Apps, Mac, ]
 description: 让 Mac OS 比好用，更好用
 ---
 
@@ -86,6 +86,7 @@ M$ Office for Mac [Official](https://www.microsoft.com/mac)  /  [Third Party(Tra
 
 [Papers](http://www.papersapp.com/mac/)  
 
+### After Apps Installing
 Security & Privacy Setting  
 Trackpad Setting
 Finder Setting
@@ -106,7 +107,7 @@ Time Machine  初次备份
 
 USB 版系统  
 
-
+### Apps search
 site:95mac.com keyword  
 site:macx.cn keyword  
 
