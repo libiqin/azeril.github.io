@@ -64,17 +64,20 @@ Shadowsocks [Official](http://shadowsocks.org/en/index.html)(Masked) [Third part
 
 [Picasa](https://picasa.google.com/)  
 
-[XtraFinder](http://www.trankynam.com/xtrafinder/) / [TotalFinder](http://totalfinder.binaryage.com/) 同为资源管理器增强应用，支持Chrome 一样的多标签展示、支持复制剪切、前者免费 后者 $18
+[XtraFinder](http://www.trankynam.com/xtrafinder/) / [TotalFinder](http://totalfinder.binaryage.com/) 同为资源管理器增强应用 支持Chrome 一样的多标签展示、支持复制剪切、前者免费 后者 $18
 
 [Airmail](http://airmailapp.com/) 简约的邮件收发中心。
 
 [Jumpcut](http://jumpcut.sourceforge.net/) 剪切版增强
 
-[iStat Menus5](http://bjango.com/mac/istatmenus/) 系统级的硬件状态监测中心，可监测 cpu  内存 风扇 硬盘以及网络的使用状况。
-
 [CleanMyMac3](http://macpaw.com/cleanmymac)  
 
 M$ Office for Mac [Official](https://www.microsoft.com/mac)  /  [Third Party(Track Version)](http://soft.macx.cn/soft4350.htm) 
+
+
+[iStat Menus5](http://bjango.com/mac/istatmenus/) 系统级的硬件状态监测中心 可监测 cpu  内存 风扇 硬盘以及网络的使用状况。
+
+Parallels Desktop [Offical](http://www.parallels.com/cn/products/desktop/download/) / [Third Party](http://www.google.com/cse?cx=partner-pub-0492687750134555%3A0046060402&ie=UTF-8&q=parallels#gsc.tab=0&gsc.q=parallels&gsc.page=1) Mac 下的最佳虚拟机
 
 [iTerm](http://iterm2.com/)  /  [Sublime Text](http://www.sublimetext.com/2) 命令行应用    
 
