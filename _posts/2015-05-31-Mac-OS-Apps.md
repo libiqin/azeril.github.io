@@ -77,7 +77,7 @@ M$ Office for Mac [Official](https://www.microsoft.com/mac)  /  [Third Party(Tra
 
 [iStat Menus5](http://bjango.com/mac/istatmenus/) 系统级的硬件状态监测中心 可监测 cpu  内存 风扇 硬盘以及网络的使用状况。
 
-Parallels Desktop [Offical](http://www.parallels.com/cn/products/desktop/download/) / [Third Party](http://www.google.com/cse?cx=partner-pub-0492687750134555%3A0046060402&ie=UTF-8&q=parallels#gsc.tab=0&gsc.q=parallels&gsc.page=1) Mac 下的最佳虚拟机
+Parallels Desktop [Offical](http://www.parallels.com/cn/products/desktop/download/) / [Third Party(Track Version)](http://www.google.com/cse?cx=partner-pub-0492687750134555%3A0046060402&ie=UTF-8&q=parallels#gsc.tab=0&gsc.q=parallels&gsc.page=1) Mac 下的最佳虚拟机
 
 [Teamviewer](https://www.teamviewer.com/en/download/mac.aspx)
 
