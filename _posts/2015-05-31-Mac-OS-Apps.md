@@ -79,6 +79,8 @@ M$ Office for Mac [Official](https://www.microsoft.com/mac)  /  [Third Party(Tra
 
 Parallels Desktop [Offical](http://www.parallels.com/cn/products/desktop/download/) / [Third Party](http://www.google.com/cse?cx=partner-pub-0492687750134555%3A0046060402&ie=UTF-8&q=parallels#gsc.tab=0&gsc.q=parallels&gsc.page=1) Mac 下的最佳虚拟机
 
+[Teamviewer](https://www.teamviewer.com/en/download/mac.aspx)
+
 [iTerm](http://iterm2.com/)  /  [Sublime Text](http://www.sublimetext.com/2) 命令行应用    
 
 [Calibre](http://calibre-ebook.com/download_osx) 电子书库管理中心
