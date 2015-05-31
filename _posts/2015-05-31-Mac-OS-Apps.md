@@ -86,7 +86,7 @@ M$ Office for Mac [Official](https://www.microsoft.com/mac)  /  [Third Party(Tra
 
 [Papers](http://www.papersapp.com/mac/)  
 
-### After Apps Installing
+### Setting 
 Security & Privacy Setting  
 Trackpad Setting
 Finder Setting
@@ -102,13 +102,17 @@ Mac OS Dicts Install
 默认程序定向  
 XtraFinder Setting（启用复制粘贴）  
 
-快捷键设定 
-Time Machine  初次备份  
+快捷键设定   
+Time Machine 初次备份  
+
+### Ready for Installing
 
 USB 版系统  
+移动硬盘工具包
+A text websites list （Onetab.txt）
 
-### Apps search
+### Apps search 
 site:95mac.com keyword  
 site:macx.cn keyword  
 
-A text websites list （Onetab.txt）
+
