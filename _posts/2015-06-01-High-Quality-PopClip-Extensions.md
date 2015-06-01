@@ -51,4 +51,4 @@ More extensions to export and download:[Chick here](http://pilotmoon.com/popclip
 Download those extensions in the list: 
 
 * From box.com [Extension Package](https://app.box.com/s/dwx3vl5m79n6txwtd911bk2ue6vud1du)
-* From SpeedShare [Extension PPackage](http://speedy.sh/4FDJm/PopClip-Extensions.zip) 
+* From SpeedShare [Extension Package](http://speedy.sh/4FDJm/PopClip-Extensions.zip) 
