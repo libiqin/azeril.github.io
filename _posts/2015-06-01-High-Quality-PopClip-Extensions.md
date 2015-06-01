@@ -45,3 +45,10 @@ description: PopClip is a easy but great app for mac.
 * Word Count	- Display the number of words in the selected text.
 
 More extensions to export and download:[Chick here](http://pilotmoon.com/popclip/extensions/). 
+
+### Download
+
+Download those extensions in the list: 
+
+* From box.com [Extension Package](https://app.box.com/s/dwx3vl5m79n6txwtd911bk2ue6vud1du)
+* From SpeedShare [Extension PPackage](http://speedy.sh/4FDJm/PopClip-Extensions.zip) 
