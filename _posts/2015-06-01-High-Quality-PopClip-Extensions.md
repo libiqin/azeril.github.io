@@ -6,7 +6,7 @@ tags: [Apps, Mac, ]
 description: PopClip is a easy but great app for mac.
 ---
 
-[PopClip](http://pilotmoon.com/popclip/)  
+[PopClip](http://pilotmoon.com/popclip/) when select text with your mouse or figers on your Mac. Instantly copy & paste, and access actions like search, spelling, dictionary and so on.
 
 ### Most used
 
