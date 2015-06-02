@@ -26,13 +26,15 @@ description: 让 Mac OS 比好用，更好用
 
 [VOX](https://itunes.apple.com/cn/app/vox/id461369673?l=en&mt=12) A beautiful music player
 
+[Moom](https://itunes.apple.com/en/app/moom/id419330170?mt=12) 智能窗口调整工具，让屏幕中各个界面井井有条，支持自定义模式。
+
 [Boom](https://itunes.apple.com/cn/app/boom-experience-best-audio/id415312377?mt=12) 音效增强，更动听的声音。
 
 [Pomodoro One](https://itunes.apple.com/cn/app/pomodoro-one/id907364780?l=en&mt=12) Pomodoro clock  
 
 [Timing](https://itunes.apple.com/cn/app/timing/id431511738?l=en&mt=12) Track time with Mac 
 
-[Caffeine](https://itunes.apple.com/cn/app/caffeine/id411246225?l=en&mt=12)  保持系统持续运行 不自动进入锁屏/休眠状态。
+[Amphetamine](https://itunes.apple.com/cn/app/amphetamine/id937984704?l=en&mt=12)  /  [Caffeine](https://itunes.apple.com/cn/app/caffeine/id411246225?l=en&mt=12)  保持系统持续运行 不自动进入锁屏/休眠状态。可自定义事件。相对来说 A 比 C 更为灵活。
 
 [Wunderlist](https://itunes.apple.com/cn/app/wunderlist-to-do-list-tasks/id410628904?l=en&mt=12)  / [Any.do](https://itunes.apple.com/cn/app/any.do-simple-to-do-list-daily/id944960179?l=en&mt=12)  To Do list 
 
@@ -68,7 +70,7 @@ Shadowsocks [Official](http://shadowsocks.org/en/index.html)(Masked) [Third part
 
 [Airmail](http://airmailapp.com/) 简约的邮件收发中心。
 
-[Jumpcut](http://jumpcut.sourceforge.net/) 剪切版增强
+[Jumpcut](http://jumpcut.sourceforge.net/) / [ClipMenu](http://www.clipmenu.com/)  剪切版增强
 
 [CleanMyMac3](http://macpaw.com/cleanmymac)  
 
@@ -87,7 +89,7 @@ Parallels Desktop [Offical](http://www.parallels.com/cn/products/desktop/downloa
 
 [Github for Mac](https://mac.github.com/)
 
-[MPlayer](http://mplayerosx.ch/#downloads) 
+[MPlayer](http://mplayerosx.ch/) 
 
 [Papers](http://www.papersapp.com/mac/)  
 
@@ -120,4 +122,9 @@ A text websites list （Onetab.txt）
 site:95mac.com keyword  
 site:macx.cn keyword  
 
+
+
+###
+
+[DwellClick](https://itunes.apple.com/cn/app/dwellclick/id402414007?l=en&mt=12) 
 
