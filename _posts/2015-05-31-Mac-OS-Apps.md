@@ -108,6 +108,7 @@ Parallels Desktop 迁移已配置虚拟机 (Windows 10 & )
 Mac OS Dicts Install   
 默认程序定向  
 XtraFinder Setting（启用复制粘贴）  
+Airmail Email Port Setting 
 
 快捷键设定   
 Time Machine 初次备份  
@@ -127,4 +128,7 @@ site:macx.cn keyword
 ###
 
 [DwellClick](https://itunes.apple.com/cn/app/dwellclick/id402414007?l=en&mt=12) 
+
+[Notability](https://itunes.apple.com/cn/app/notability/id736189492?l=en&mt=12)
+
 
