@@ -1,6 +1,6 @@
 # Microdust 微尘
 
-This is a blog writed by Azeril. The blog is live at [azeril.me](http://azeril.me/).
+This is a blog designed by Azeril. The blog is live at [azeril.me](http://azeril.me/).
 
 ## Tools used
 
