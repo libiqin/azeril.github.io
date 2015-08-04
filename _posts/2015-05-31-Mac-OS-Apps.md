@@ -70,12 +70,17 @@ Shadowsocks [Official](http://shadowsocks.org/en/index.html)(Masked) [Third part
 
 [Airmail](http://airmailapp.com/) 简约的邮件收发中心。
 
-[Jumpcut](http://jumpcut.sourceforge.net/) / [ClipMenu](http://www.clipmenu.com/)  剪切版增强
+[Jumpcut](http://jumpcut.sourceforge.net/) / [ClipMenu](http://www.clipmenu.com/) / [Paste](http://pasteapp.me/)  剪切版增强
+
+
 
 [CleanMyMac3](http://macpaw.com/cleanmymac)  
 
 M$ Office for Mac [Official](https://www.microsoft.com/mac)  /  [Third Party(Track Version)](http://soft.macx.cn/soft4350.htm) 
 
+[Sketch 3](http://bohemiancoding.com/) 图像处理工具 偏设计。
+
+[Pixelmator](http://www.pixelmator.com/) Full-featured image editor for Mac 图像处理工具 偏编辑优化。
 
 [iStat Menus5](http://bjango.com/mac/istatmenus/) 系统级的硬件状态监测中心 可监测 cpu  内存 风扇 硬盘以及网络的使用状况。
 
@@ -95,16 +100,17 @@ Parallels Desktop [Offical](http://www.parallels.com/cn/products/desktop/downloa
 
 ### Setting 
 Security & Privacy Setting  
-Trackpad Setting
+
 Finder Setting
 
+Basic Software java&Flashplayer&Git
 Chrome Setting  
 Safari Setting  
 Sogou Pinyin Setting  
 Flashligt  Plugins Install   
 PopClip  Plugins Install   
 Office for Mac Instal （Customize install）  
-Parallels Desktop 迁移已配置虚拟机 (Windows 10 & )   
+Parallels Desktop 迁移已配置虚拟机 (Windows 10 & Office 2007)   
 Mac OS Dicts Install   
 默认程序定向  
 XtraFinder Setting（启用复制粘贴）  
