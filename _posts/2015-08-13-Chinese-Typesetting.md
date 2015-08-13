@@ -1,4 +1,11 @@
-## 排版
+---
+layout: post
+title: 中文简要排版参考
+categories: [blog ]
+tags: [Chinese, Read, ]
+description: 让 Mac OS 比好用，更好用
+---
+ 
 
 整书排版格式统一，清晰易读，无过多分散注意力的元素
 
@@ -124,7 +131,7 @@
 
 注意图文直接的间距不要过大。
 
-参考文档：
+### 参考文档：
 
 * [Requirements for Chinese Text Layout 中文排版需求](http://w3c.github.io/clreq/)
 * [教育部《标点符号用法》](http://www.moe.edu.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)
