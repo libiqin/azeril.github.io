@@ -3,7 +3,7 @@ layout: post
 title: 中文简要排版参考
 categories: [blog ]
 tags: [Chinese, Read, ]
-description: 让 Mac OS 比好用，更好用
+description: 如何创造优美的阅读体验
 ---
  
 
