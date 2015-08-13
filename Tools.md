@@ -6,7 +6,7 @@ title: Tools 工具集
 
 ### Rule
 
-[W3C Editor's Draft](http://www.w3.org/International/docs/chinese-layout/zh/) 中文排版  
+[W3C Editor's Draft](http://w3c.github.io/clreq/#glyphs_sizes_and_positions_in_character_faces_of_punctuation_marks) 中文排版  
 
 [AQicn](http://aqicn.org/city/) PM2.5
 

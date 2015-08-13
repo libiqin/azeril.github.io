@@ -20,15 +20,18 @@ description: 让 Mac OS 比好用，更好用
 
 [Keynote](https://itunes.apple.com/cn/app/keynote/id409183694?l=en&mt=12) 
 
-[Netease Music](https://itunes.apple.com/cn/app/wang-yi-yun-yin-le/id944848654?l=en&mt=12) / [Diumoo](https://itunes.apple.com/cn/app/diumoo/id562734497?l=en&mt=12) 网易云音乐 / 豆瓣电台第三方客户端  
+[Netease Music](https://itunes.apple.com/cn/app/wang-yi-yun-yin-le/id944848654?l=en&mt=12) / [Diumoo](https://itunes.apple.com/cn/app/diumoo/id562734497?l=en&mt=12) /  网易云音乐 / 豆瓣电台第三方客户端  
 
 [Elmedia Player](https://itunes.apple.com/cn/app/elmedia-player-free-video/id937759555?l=en&mt=12) / [SPlayerX](https://itunes.apple.com/cn/app/splayerx/id414675434?l=en&mt=12) Free Version or $12.9 / $0.99 Made by Splayer（射手影音） 
 
 [VOX](https://itunes.apple.com/cn/app/vox/id461369673?l=en&mt=12) A beautiful music player
 
-[Moom](https://itunes.apple.com/en/app/moom/id419330170?mt=12) 智能窗口调整工具，让屏幕中各个界面井井有条，支持自定义模式。
+[Moom](https://itunes.apple.com/en/app/moom/id419330170?mt=12) / [Mac App Store – „BetterSnapTool“](https://itunes.apple.com/de/app/bettersnaptool/id417375580?mt=12p)智能窗口调整工具，让屏幕中各个界面井井有条，支持自定义模式。所不同的是，Moom 以点击选择和快捷键为主，BetterSnapToll 则是以拖拽来触发分布到屏幕的特定区域为主。
+
 
 [Boom](https://itunes.apple.com/cn/app/boom-experience-best-audio/id415312377?mt=12) 音效增强，更动听的声音。
+
+[DynamicLyrics](http://martianz.cn/dynamiclyrics/) 桌面歌词
 
 [Pomodoro One](https://itunes.apple.com/cn/app/pomodoro-one/id907364780?l=en&mt=12) Pomodoro clock  
 
@@ -92,12 +95,56 @@ Parallels Desktop [Offical](http://www.parallels.com/cn/products/desktop/downloa
 
 [Calibre](http://calibre-ebook.com/download_osx) 电子书库管理中心
 
+* [MindNode](https://mindnode.com/) 思维导图工具
+
+### GTD
+
+* [Gestimer - For those little reminders during the day](http://maddin.io/gestimer/)
+
 [Github for Mac](https://mac.github.com/)
 
 [MPlayer](http://mplayerosx.ch/) 
 
 [Papers](http://www.papersapp.com/mac/)  
 
+[Dropshelf for Mac](https://pilotmoon.com/dropshelf/) / [Mac App Store - Yoink](https://itunes.apple.com/us/app/yoink/id457622435?mt=12) 桌面上的文件暂存区。$4.99 / $2.99
+
+[HyperDock](https://itunes.apple.com/us/app/hyperdock/id449830122?mt=12) 在 Mac 让 Dock 支持 Windows 下的预览窗口。
+
+阅读器：
+* [Clearview](https://itunes.apple.com/app/clearview/id557090104?mt=12&ls=1) 桌面电子书阅读器，支持 pdf ePub mobi chm 等格式。
+* [Skim | Home](http://skim-app.sourceforge.net/)
+* [ichm](https://code.google.com/p/ichm/downloads/list) iChm is a CHM reader for Mac OS X - Google Project Hosting
+
+* [Transmit](https://panic.com/transmit/) The ultimate Mac OS X FTP + SFTP + S3 app。
+* [Cyberduck](https://cyberduck.io/?l=en) Libre FTP, SFTP, WebDAV, S3 & OpenStack Swift browser。
+* [Transmission](http://www.transmissionbt.com/download/) 全平台的 BitTorrent 客户端
+
+
+* [Gemini](http://macpaw.com/gemini) Best Mac Duplicate File Finder. How to Remove Dulicates on Mac OS X。重复文件筛查。
+
+* [Mactracker](http://www.mactracker.ca/) Mac 资料库
+
+* [Mellel - A Real Word Processor](http://www.mellel.com/)
+打字音效应用
+
+[Ember](http://realmacsoftware.com/ember/) / [Pixa](http://www.pixa-app.com/) Organizing your images, the easy way。图片文件管理器。设计师的利器。
+
+Marked Writeroom
+
+* [Clear Day](https://itunes.apple.com/us/app/clear-day-formerly-weather-hd/id411543336?mt=12) 高清版桌面天气
+
+[ColorSnapper — The Color Picker App for Mac OS X](http://colorsnapper.com/) 拾色器
+
+[Appuous — Products — Keycard for Mac](http://www.appuous.com/products/mac/keycard.html) iOS 设备蓝牙解锁 Mac 
+
+轻型笔记应用
+
+* [Notefile](https://itunes.apple.com/cn/app/notefile/id544878870?mt=12&ign-mpt=uo%3D4) Mac & iOS 笔记应用 可用 但寻常
+
+
+* [Xee³](http://xee.c3.cx/) 图片浏览器
+* 
 ### Setting 
 Security & Privacy Setting  
 
