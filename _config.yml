@@ -10,16 +10,16 @@ relative_permalinks: true
 
 # Setup
 title:               "琴之音 Words Worlds"
-tagline:             '「To see a world in a grain of sand And a heaven in a wild flower」'
+tagline:             '「一沙一世界 一叶一天堂」'
 description:         'Love all，trust a few，do wrong to none'
 url:                 http://biqin.me/
 baseurl:             http://biqin.me/
-paginate:            7
+paginate:            6
 excerpt_separator:   ""
 
 # About/contact
 author:
-  name:              Rebecca
+  name:              Rebecca Lee
   email:             rebeccabfsu20@gmail.com
 
 # Data
