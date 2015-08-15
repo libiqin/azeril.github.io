@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tools 工具集
+title: Tools
 ---
 
 
