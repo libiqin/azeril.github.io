@@ -9,18 +9,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               "Microdust 微尘"
-tagline:             '「在遙遠的地方 一切虔誠終必相遇」'
-description:         '明朝即長路 惜取此時心'
-url:                 http://azeril.me/
-baseurl:             http://azeril.me/
+title:               "琴之音 Words Worlds"
+tagline:             '「To see a world in a grain of sand And a heaven in a wild flower」'
+description:         'Love all，trust a few，do wrong to none'
+url:                 http://biqin.me/
+baseurl:             http://biqin.me/
 paginate:            7
 excerpt_separator:   ""
 
 # About/contact
 author:
-  name:              Azeril
-  email:             azeril@live.cn
+  name:              Rebecca
+  email:             rebeccabfsu20@gmail.com
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -30,9 +30,9 @@ favicon: ./public/favicon.png
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : lapland
+    short_name : Rebecca
   disqus :
-      short_name : Azeril
+      short_name : Rebecca
   # ...
   
 # Custom vars
