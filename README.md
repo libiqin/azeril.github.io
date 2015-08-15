@@ -1,6 +1,6 @@
-# Microdust 微尘
+# Words Worlds
 
-This is a blog designed by Azeril. The blog is live at [azeril.me](http://azeril.me/).
+This is a blog wrote by Rebecca. 
 
 ## Tools used
 
