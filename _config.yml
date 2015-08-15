@@ -23,8 +23,8 @@ author:
   email:             rebeccabfsu20@gmail.com
 
 # Data
-gavatar: ./public/Rebecca.png
-favicon: ./public/Becky.png
+gavatar: ./public/Rebecca.jpg
+favicon: ./public/Becky.ico
 
 # Comments 
 comments :
